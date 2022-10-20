@@ -36,3 +36,4 @@ let fail #a x #b y #c f = f x y
 
 type fs0035 (a:Type) (n:nat) = a
 
+.. test
